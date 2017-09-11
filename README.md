@@ -10,7 +10,7 @@
       <h2>Контакты: yusfedotova@edu.hse.ru</h2>
 Страничка <a href=https://vk.com/id119563938/>vkontakte</a>
  <br/>
-      <a href=https://github.com/username>GitHub</a>
+      <a href=https://github.com/JuliaFedotova>GitHub</a>
  <br/>
       Телефон: <b>+79031273702</b>
 <br/>
