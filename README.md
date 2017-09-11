@@ -9,9 +9,9 @@
       <left><img alt="Это я" width="15%" src="me.jpg"></left>
       <br/>
       <h2>Контакты: yusfedotova@edu.hse.ru</h2>
-      Страничка <a href=https://vk.com/id119563938/>vkontakte</a>
+      Страничка <a href="https://vk.com/id119563938">vkontakte</a>
       <br/>
-      <a href=https://github.com/JuliaFedotova>GitHub</a>
+      <a href="https://github.com/JuliaFedotova">GitHub</a>
       <br/>
       Телефон: <b>+79031273702</b>
       <br/>
