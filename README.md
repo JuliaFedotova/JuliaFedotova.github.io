@@ -7,7 +7,7 @@
 <left><img alt="Это я" width="15%" src="me.jpg"></left>
 <br/>
       <h2>Контакты: yusfedotova@edu.hse.ru</h2>
-Страничка <a> href=https://vk.com/id119563938/>vkontakte</a>
+Страничка <a href=https://vk.com/id119563938/ >vkontakte</a>
  <br/>
       <a href=https://github.com/username>GitHub</a>
  <br/>
