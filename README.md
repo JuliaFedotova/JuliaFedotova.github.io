@@ -8,6 +8,7 @@
       <left><h1>Федотова Юлия</h1></left>
       <left><img alt="Это я" width="15%" src="me.jpg"></left>
       <br/>
+      # Обо мне: не дружу с техникой:) Люблю рисовать, петь, <s>болеть</s> и многое другое. 
       <h2>Контакты: yusfedotova@edu.hse.ru</h2>
       Страничка <a href="https://vk.com/id119563938">vkontakte</a>
       <br/>
